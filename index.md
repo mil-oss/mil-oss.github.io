@@ -1,4 +1,10 @@
-## Welcome to Mil-OSS GitHub Pages
+## Welcome to Mil-OSS!
+
+Welcome to the (new and updated) Mil-OSS website.  At one time we were hosted on mil-oss.org, but that domain was accidentally allowed to lapse and picked up by someone else.  So we're restarting on this website, mil-oss.dev.  We don't know who has mil-oss.org now.
+
+## Instructions for modifying the site
+
+The following are instructions on how to edit the site. This site is hosted on GitHub pages.
 
 You can use the [editor on GitHub](https://github.com/mil-oss/mil-oss.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
