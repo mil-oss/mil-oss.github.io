@@ -24,5 +24,5 @@ At one time we (the original Mil-OSS group) were hosted on mil-oss.org, but that
 ## Modifying the site
 
 If something needs to be added to this site, please help us!
-See the [Instructions on modifying this site](./modify.md)
+See the [Instructions on modifying this site](./modifying.md)
 on how to create proposed modifications.
