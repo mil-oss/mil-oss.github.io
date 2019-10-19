@@ -10,8 +10,9 @@ Note about websites: At one time we (Mil-OSS) were hosted on mil-oss.org, but th
 
 ## Key materials
 
-* ["Clarifying Guidance Regarding Open Source Software (OSS)"](https://dodcio.defense.gov/Portals/0/Documents/FOSS/2009OSS.pdf) - the key DoD-wide policy on OSS.
-* [DoD Open Source Software (OSS) FAQ](https://dodcio.defense.gov/open-source-software-faq/)
+* [*Clarifying Guidance Regarding Open Source Software (OSS)* (2009)](https://dodcio.defense.gov/Portals/0/Documents/FOSS/2009OSS.pdf) [local copy](resources/2009OSS.pdf) - the key DoD-wide policy on OSS.
+* [*DoD Open Source Software (OSS) FAQ*](https://dodcio.defense.gov/open-source-software-faq/)
+* [*Open Technology Development: Lessons Learned and Best Practices for Military Software* by John Scott, David A. Wheeler, Mark Lucas, and J.C. Herz (2011-05-16)](https://dodcio.defense.gov/Portals/0/Documents/FOSS/OTD-lessons-learned-military-signed.pdf) [local copy](resources/OTD-lessons-learned-military-signed.pdf)
 
 ## Modifying the site
 
