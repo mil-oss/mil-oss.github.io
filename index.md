@@ -2,9 +2,9 @@
 
 Welcome to the (new and updated) Mil-OSS website [https://mil-oss.dev](https://mil-oss.dev).  This site is for discussing the relationship of open source software (OSS) and the military. We focus on the U.S. military, the US Department of Defense (DoD).
 
-If you want to discuss things, please talk on our [Mil-OSS mailing list](https://groups.google.com/forum/?hl=en#!forum/mil-oss).
+Please join the **[Mil-OSS mailing list](https://groups.google.com/forum/?hl=en#!forum/mil-oss)**!
 
-We have various OSS projects available on our GitHub page; see [https://github.com/mil-oss](https://github.com/mil-oss).
+Also see the [GitHub Mil-OSS projects site](https://github.com/mil-oss), where various projects are available.
 
 ## Key materials
 
