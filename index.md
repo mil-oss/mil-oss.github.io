@@ -12,6 +12,10 @@ We have various OSS projects available on our GitHub page; see [https://github.c
 * [*DoD Open Source Software (OSS) FAQ*](https://dodcio.defense.gov/open-source-software-faq/)
 * [*Open Technology Development: Lessons Learned and Best Practices for Military Software* by John Scott, David A. Wheeler, Mark Lucas, and J.C. Herz (2011-05-16)](https://dodcio.defense.gov/Portals/0/Documents/FOSS/OTD-lessons-learned-military-signed.pdf) [local copy](resources/OTD-lessons-learned-military-signed.pdf)
 
+## Related sites
+
+* [Code.gov](https://code.gov) is the "federal government's platform for sharing America's open source software"
+
 ## What happened to mil-oss.org?
 
 At one time we (the original Mil-OSS group) were hosted on mil-oss.org, but that domain was accidentally allowed to lapse and picked up by someone else.  We don't know who controls mil-oss.org now.  So we've restarted our website here on https://mil-oss.dev.
