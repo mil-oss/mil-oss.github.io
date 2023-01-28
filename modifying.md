@@ -42,3 +42,7 @@ The Pages site will use the layout and styles from the Jekyll theme you have sel
 ### Support or Contact
 
 Having trouble with Pages? Check out the [GitHub documentation](https://help.github.com/categories/github-pages-basics/) or [contact GitHub support](https://github.com/contact).
+
+### Licensing
+
+Unless otherwise noted the contents of this website are released under the [Creative Commons Attribution 4.0 International (CC-BY-4.0)](./LICENSE.md) license.
