@@ -29,4 +29,4 @@ If something needs to be added to this site, please help us!
 See the [Instructions on modifying this site](./modifying.md)
 on how to create proposed modifications. Basically, create GitHub pull requests.
 
-Unless otherwise noted the contents of this website are released under the [Creative Commons Attribution 4.0 International (CC-BY-4.0)](./LICENSE.md) license.
+Unless otherwise noted the contents of this website are released under the [Creative Commons Attribution 4.0 International (CC-BY-4.0)](./LICENSE.html) license.
